@@ -12,6 +12,6 @@ noBtn.addEventListener('mouseover', () => {
 yesBtn.addEventListener('click', () => {
   document.querySelector('.container').innerHTML = `
     <h1>Hihi biết màaa 😚</h1>
-    <p>Emmmm tha lỗi cho bộttttt rồiii 💕</p>
+    <p>Bột tha lỗi cho emmmm rồiii 💕</p>
   `;
 });
